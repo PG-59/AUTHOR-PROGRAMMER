@@ -1,5 +1,4 @@
 #!/bin/bash
-#author:Prince Gutierrez
 
 #################################
 #     Project : Hackerprince    #

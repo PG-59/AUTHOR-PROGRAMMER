@@ -15,7 +15,7 @@ echo   ||     || ||
 echo   ||=====|| ||======||
 echo   ||        ||      ||  
 echo   ||        ||      ||
-echo   ||        ||======
+echo   ||        ||========
 echo 
 am start -a android.intent.action.VIEW -d https://github.com/PG-59>> /dev/null 2>&1
 echo PLEASE SUBSCRIBE MY CHANNEL

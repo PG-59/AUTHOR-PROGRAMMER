@@ -1,5 +1,5 @@
-#!/bin/bash
-
+##!/bin/bash
+RUN THE SCRIPT WITHOUT ERROR
 #################################
 #     Project : Hackerprince    #
 #     author : PRINCE GUTIERREZ #

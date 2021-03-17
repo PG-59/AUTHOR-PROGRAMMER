@@ -3,9 +3,9 @@
 ##coded by:https://github.com/PG-59
 ##I WILL REPRESENT MY SELF USING THE AUTHOR-PROGRAMMER
 
-printf "\e[1;20m █▀▀█ █▀▀▀ ░ ░ █▀▀ ▄▀▀▄
-printf "\e[1;21m █░░█ █░▀█ ▀ ▀ ▀▀▄ ▀▄▄█
-printf "\e[1;22m █▀▀▀ ▀▀▀▀ ░ ░ ▄▄▀ ░▄▄▀
+printf "\e[1;20m █▀▀█ █▀▀▀ ░ ░ █▀▀ ▄▀▀▄\e[0m\n"
+printf "\e[1;21m █░░█ █░▀█ ▀ ▀ ▀▀▄ ▀▄▄█\e[0m\n"
+printf "\e[1;22m █▀▀▀ ▀▀▀▀ ░ ░ ▄▄▀ ░▄▄▀\e[0m\n"
 printf "\e[1;23m I AM PRINCE GUTIERREZ\e[0m\n"
 printf "\e[1;24m I AM IN PHILLIPINES\e[0m\n"
 printf "\e[1;25m I AM HACKER AND PROGRAMMER IN PHILLIPINES\e[0m\n"
